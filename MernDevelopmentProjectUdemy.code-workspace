@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../kyndryl/KoushikMajumder/Education/Mern/MernDevelopmentProjectUdemy"
+		},
+		{
+			"path": "../../Downloads/4.0+File+Paths/4.0 File Paths"
+		},
+		{
+			"path": "../../Downloads/4.1+Webpages"
+		},
+		{
+			"path": "../../Downloads/4.3+HTML+Portfolio+Project/4.3 HTML Porfolio Project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MernDevelopmentProjectUdemy"
+	}
+}
